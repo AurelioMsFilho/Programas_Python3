@@ -1,0 +1,6 @@
+nome = input('Digite seu nome: ')
+nome = int(nome)
+#print(nome.isalnum())
+#print(nome.istitle())
+#print(nome.isalpha())
+print(nome + nome)
